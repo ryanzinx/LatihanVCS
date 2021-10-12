@@ -1,9 +1,9 @@
 # LatihanVCS
-Nama: Adrian Fadhali Wiratama
-Nim: 312110329
-Kelas: TI.21.A.2
+Nama: Adrian Fadhali Wiratama<br>
+Nim: 312110329<br>
+Kelas: TI.21.A.2<br>
 
-Tutorial menggunakan git:
+Tutorial menggunakan git:<br><br>
 
 Download Git, buka website resminya Git (git-scm.com). 
 • Kemudian unduh Git sesuai dengan arsitektur komputer kita. 
